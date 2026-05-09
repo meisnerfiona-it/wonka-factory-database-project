@@ -1,0 +1,1256 @@
+location_id,city,state_province,factory_name,coli_index
+1,San Francisco,California,Wicked Choccy's,142.3
+2,San Francisco,California,Lot's O' Nuts,142.3
+3,New York City,New York,Lot's O' Nuts,125.1
+4,New York City,New York,Wicked Choccy's,125.1
+5,Round Rock,Texas,Lot's O' Nuts,92.1
+6,Round Rock,Texas,Wicked Choccy's,92.1
+7,Minneapolis,Minnesota,Lot's O' Nuts,94.6
+8,Los Angeles,California,Wicked Choccy's,142.3
+9,Rancho Cucamonga,California,Wicked Choccy's,142.3
+10,Omaha,Nebraska,Wicked Choccy's,92.6
+11,Omaha,Nebraska,Lot's O' Nuts,92.6
+12,Salem,Oregon,Lot's O' Nuts,111.8
+13,Lebanon,Tennessee,Lot's O' Nuts,90.3
+14,Mesa,Arizona,Wicked Choccy's,110.7
+15,Atlanta,Georgia,Lot's O' Nuts,92.5
+16,Providence,Rhode Island,Wicked Choccy's,110.6
+17,Middletown,Connecticut,Wicked Choccy's,112.7
+18,Springfield,Missouri,Wicked Choccy's,89.0
+19,Springfield,Missouri,Lot's O' Nuts,89.0
+20,Detroit,Michigan,Lot's O' Nuts,90.1
+21,Detroit,Michigan,Wicked Choccy's,90.1
+22,Concord,North Carolina,Wicked Choccy's,97.8
+23,Chester,Pennsylvania,Lot's O' Nuts,97.2
+24,Chester,Pennsylvania,Wicked Choccy's,97.2
+25,Lowell,Massachusetts,Lot's O' Nuts,141.2
+26,Lowell,Massachusetts,Wicked Choccy's,141.2
+27,Oklahoma City,Oklahoma,Lot's O' Nuts,86.0
+28,Georgetown,Kentucky,Wicked Choccy's,92.5
+29,Georgetown,Kentucky,Lot's O' Nuts,92.5
+30,San Diego,California,Lot's O' Nuts,142.3
+31,Arlington,Texas,Lot's O' Nuts,92.1
+32,Seattle,Washington,Lot's O' Nuts,114.1
+33,Oklahoma City,Oklahoma,Wicked Choccy's,86.0
+34,Des Moines,Washington,Wicked Choccy's,114.1
+35,Waynesboro,Virginia,Wicked Choccy's,100.8
+36,Waynesboro,Virginia,Lot's O' Nuts,100.8
+37,Concord,New Hampshire,Lot's O' Nuts,111.4
+38,Los Angeles,California,Lot's O' Nuts,142.3
+39,Philadelphia,Pennsylvania,Lot's O' Nuts,97.2
+40,Greenwood,Indiana,Secret Factory,91.0
+41,Greenwood,Indiana,Wicked Choccy's,91.0
+42,Seattle,Washington,Wicked Choccy's,114.1
+43,Indianapolis,Indiana,Lot's O' Nuts,91.0
+44,Houston,Texas,Lot's O' Nuts,92.1
+45,Houston,Texas,Wicked Choccy's,92.1
+46,Phoenix,Arizona,Lot's O' Nuts,110.7
+47,Portland,Oregon,Lot's O' Nuts,111.8
+48,Pearland,Texas,Lot's O' Nuts,92.1
+49,Bloomington,Illinois,Wicked Choccy's,94.7
+50,Phoenix,Arizona,Wicked Choccy's,110.7
+51,Henderson,Kentucky,Wicked Choccy's,92.5
+52,Yonkers,New York,Wicked Choccy's,125.1
+53,Yonkers,New York,Lot's O' Nuts,125.1
+54,Tulsa,Oklahoma,Lot's O' Nuts,86.0
+55,Dallas,Texas,Wicked Choccy's,92.1
+56,Long Beach,New York,Lot's O' Nuts,125.1
+57,Carrollton,Texas,Lot's O' Nuts,92.1
+58,Decatur,Illinois,Lot's O' Nuts,94.7
+59,Louisville,Colorado,Wicked Choccy's,102.7
+60,Lakewood,California,Lot's O' Nuts,142.3
+61,Toledo,Ohio,Lot's O' Nuts,94.3
+62,Lebanon,Tennessee,Wicked Choccy's,90.3
+63,Bellevue,Washington,Wicked Choccy's,114.1
+64,Bellevue,Washington,Lot's O' Nuts,114.1
+65,Philadelphia,Pennsylvania,Wicked Choccy's,97.2
+66,Plano,Texas,Sugar Shack,92.1
+67,Jackson,Mississippi,Wicked Choccy's,87.3
+68,Lorain,Ohio,Lot's O' Nuts,94.3
+69,Carlsbad,New Mexico,Wicked Choccy's,93.7
+70,Carlsbad,New Mexico,Lot's O' Nuts,93.7
+71,Chicago,Illinois,Lot's O' Nuts,94.7
+72,Jacksonville,North Carolina,Lot's O' Nuts,97.8
+73,Tucson,Arizona,Wicked Choccy's,110.7
+74,Tucson,Arizona,Lot's O' Nuts,110.7
+75,Avondale,Arizona,Lot's O' Nuts,110.7
+76,Tampa,Florida,Wicked Choccy's,102.2
+77,Pembroke Pines,Florida,Lot's O' Nuts,102.2
+78,Pembroke Pines,Florida,Wicked Choccy's,102.2
+79,Lafayette,Louisiana,Lot's O' Nuts,92.3
+80,Beaumont,Texas,Wicked Choccy's,92.1
+81,Rochester,New York,Lot's O' Nuts,125.1
+82,Parma,Ohio,Lot's O' Nuts,94.3
+83,Lawrence,Indiana,Wicked Choccy's,91.0
+84,Huntsville,Texas,Wicked Choccy's,92.1
+85,Great Falls,Montana,Lot's O' Nuts,95.5
+86,Great Falls,Montana,Wicked Choccy's,95.5
+87,Fairfield,Connecticut,Lot's O' Nuts,112.7
+88,San Clemente,California,Lot's O' Nuts,142.3
+89,Passaic,New Jersey,Wicked Choccy's,115.1
+90,Passaic,New Jersey,Lot's O' Nuts,115.1
+91,Chicago,Illinois,Wicked Choccy's,94.7
+92,Homestead,Florida,Wicked Choccy's,102.2
+93,Homestead,Florida,Lot's O' Nuts,102.2
+94,College Station,Texas,Wicked Choccy's,92.1
+95,Fairfield,Ohio,Wicked Choccy's,94.3
+96,Louisville,Kentucky,Wicked Choccy's,92.5
+97,Toledo,Ohio,Wicked Choccy's,94.3
+98,West Jordan,Utah,Lot's O' Nuts,102.2
+99,Lawrence,Massachusetts,Lot's O' Nuts,141.2
+100,Las Vegas,Nevada,Wicked Choccy's,100.2
+101,Franklin,Massachusetts,Secret Factory,141.2
+102,Tulsa,Oklahoma,Wicked Choccy's,86.0
+103,Stockton,California,Wicked Choccy's,142.3
+104,Stockton,California,Lot's O' Nuts,142.3
+105,Charlotte,North Carolina,Lot's O' Nuts,97.8
+106,Mesa,Arizona,Lot's O' Nuts,110.7
+107,Arlington,Virginia,Lot's O' Nuts,100.8
+108,Arlington,Virginia,Wicked Choccy's,100.8
+109,Cincinnati,Ohio,Wicked Choccy's,94.3
+110,Knoxville,Tennessee,Lot's O' Nuts,90.3
+111,Alexandria,Virginia,Wicked Choccy's,100.8
+112,Saint Petersburg,Florida,Wicked Choccy's,102.2
+113,Saint Petersburg,Florida,Lot's O' Nuts,102.2
+114,Saint Petersburg,Florida,Secret Factory,102.2
+115,Peoria,Arizona,Wicked Choccy's,110.7
+116,Peoria,Arizona,Lot's O' Nuts,110.7
+117,Detroit,Michigan,Secret Factory,90.1
+118,Philadelphia,Pennsylvania,Secret Factory,97.2
+119,Houston,Texas,Secret Factory,92.1
+120,Richmond,Virginia,Wicked Choccy's,100.8
+121,Allen,Texas,Wicked Choccy's,92.1
+122,Salem,Virginia,Wicked Choccy's,100.8
+123,Jacksonville,North Carolina,Wicked Choccy's,97.8
+124,Milwaukee,Wisconsin,Lot's O' Nuts,97.7
+125,Columbus,Georgia,Lot's O' Nuts,92.5
+126,Hampton,Virginia,Wicked Choccy's,100.8
+127,Lawrence,Indiana,Lot's O' Nuts,91.0
+128,San Diego,California,Wicked Choccy's,142.3
+129,Waterbury,Connecticut,Lot's O' Nuts,112.7
+130,Eau Claire,Wisconsin,Lot's O' Nuts,97.7
+131,Coral Springs,Florida,Lot's O' Nuts,102.2
+132,Dallas,Texas,Lot's O' Nuts,92.1
+133,Troy,New York,Lot's O' Nuts,125.1
+134,Troy,New York,The Other Factory,125.1
+135,Los Angeles,California,Secret Factory,142.3
+136,Gulfport,Mississippi,Wicked Choccy's,87.3
+137,Huntington Beach,California,Lot's O' Nuts,142.3
+138,Columbus,Ohio,Lot's O' Nuts,94.3
+139,Henderson,Nevada,The Other Factory,100.2
+140,Knoxville,Tennessee,Wicked Choccy's,90.3
+141,Cranston,Rhode Island,Lot's O' Nuts,110.6
+142,Cranston,Rhode Island,Wicked Choccy's,110.6
+143,Aurora,Illinois,Lot's O' Nuts,94.7
+144,Salem,Oregon,Wicked Choccy's,111.8
+145,Salem,Oregon,Secret Factory,111.8
+146,Houston,Texas,The Other Factory,92.1
+147,Louisville,Kentucky,Lot's O' Nuts,92.5
+148,Bethlehem,Pennsylvania,Lot's O' Nuts,97.2
+149,Tamarac,Florida,Lot's O' Nuts,102.2
+150,Brentwood,California,Wicked Choccy's,142.3
+151,Nashville,Tennessee,Lot's O' Nuts,90.3
+152,Anaheim,California,Lot's O' Nuts,142.3
+153,Anaheim,California,Wicked Choccy's,142.3
+154,Bartlett,Tennessee,Wicked Choccy's,90.3
+155,Decatur,Alabama,Wicked Choccy's,88.6
+156,Miami,Florida,Lot's O' Nuts,102.2
+157,Virginia Beach,Virginia,Lot's O' Nuts,100.8
+158,Roswell,Georgia,Lot's O' Nuts,92.5
+159,Plantation,Florida,Lot's O' Nuts,102.2
+160,Plantation,Florida,Wicked Choccy's,102.2
+161,Los Angeles,California,The Other Factory,142.3
+162,Springfield,Virginia,Lot's O' Nuts,100.8
+163,Springfield,Virginia,Wicked Choccy's,100.8
+164,Coral Gables,Florida,Wicked Choccy's,102.2
+165,Coral Gables,Florida,Lot's O' Nuts,102.2
+166,Kent,Washington,Wicked Choccy's,114.1
+167,Brentwood,California,Lot's O' Nuts,142.3
+168,Roseville,California,Lot's O' Nuts,142.3
+169,Glendale,Arizona,Lot's O' Nuts,110.7
+170,Chesapeake,Virginia,Lot's O' Nuts,100.8
+171,Springfield,Virginia,Secret Factory,100.8
+172,Lorain,Ohio,Wicked Choccy's,94.3
+173,Beverly,Massachusetts,Wicked Choccy's,141.2
+174,Beverly,Massachusetts,Lot's O' Nuts,141.2
+175,Palm Coast,Florida,Wicked Choccy's,102.2
+176,Baltimore,Maryland,Lot's O' Nuts,115.4
+177,Baltimore,Maryland,Wicked Choccy's,115.4
+178,Scottsdale,Arizona,Wicked Choccy's,110.7
+179,Jacksonville,Florida,Secret Factory,102.2
+180,Jacksonville,Florida,Lot's O' Nuts,102.2
+181,Apple Valley,California,Wicked Choccy's,142.3
+182,Apple Valley,California,Lot's O' Nuts,142.3
+183,Apple Valley,California,Secret Factory,142.3
+184,Wilmington,North Carolina,Lot's O' Nuts,97.8
+185,Taylor,Michigan,Lot's O' Nuts,90.1
+186,Chandler,Arizona,Wicked Choccy's,110.7
+187,Rochester,New York,Wicked Choccy's,125.1
+188,Omaha,Nebraska,Secret Factory,92.6
+189,Grand Prairie,Texas,Wicked Choccy's,92.1
+190,Cleveland,Ohio,Wicked Choccy's,94.3
+191,Las Vegas,Nevada,Lot's O' Nuts,100.2
+192,Auburn,Alabama,Wicked Choccy's,88.6
+193,Auburn,Alabama,Lot's O' Nuts,88.6
+194,Des Plaines,Illinois,Lot's O' Nuts,94.7
+195,Salem,Virginia,Lot's O' Nuts,100.8
+196,Frisco,Texas,Sugar Shack,92.1
+197,Florence,Alabama,Wicked Choccy's,88.6
+198,Malden,Massachusetts,Lot's O' Nuts,141.2
+199,Malden,Massachusetts,Wicked Choccy's,141.2
+200,Fort Lauderdale,Florida,Wicked Choccy's,102.2
+201,Fort Lauderdale,Florida,Lot's O' Nuts,102.2
+202,Denver,Colorado,Lot's O' Nuts,102.7
+203,Denver,Colorado,Wicked Choccy's,102.7
+204,Rock Hill,South Carolina,Wicked Choccy's,94.7
+205,Columbus,Georgia,Wicked Choccy's,92.5
+206,Henderson,Kentucky,Lot's O' Nuts,92.5
+207,Palm Coast,Florida,Lot's O' Nuts,102.2
+208,Fort Collins,Colorado,Lot's O' Nuts,102.7
+209,Austin,Texas,Wicked Choccy's,92.1
+210,Lawrence,Massachusetts,Wicked Choccy's,141.2
+211,Hattiesburg,Mississippi,Wicked Choccy's,87.3
+212,Trenton,Michigan,Lot's O' Nuts,90.1
+213,Franklin,Massachusetts,Lot's O' Nuts,141.2
+214,Woonsocket,Rhode Island,Wicked Choccy's,110.6
+215,Quincy,Massachusetts,Lot's O' Nuts,141.2
+216,Jackson,Michigan,Lot's O' Nuts,90.1
+217,Jackson,Michigan,Wicked Choccy's,90.1
+218,Austin,Texas,Lot's O' Nuts,92.1
+219,Vancouver,Washington,Wicked Choccy's,114.1
+220,Vancouver,Washington,Lot's O' Nuts,114.1
+221,Vancouver,Washington,Secret Factory,114.1
+222,New York City,New York,The Other Factory,125.1
+223,Concord,California,Lot's O' Nuts,142.3
+224,New York City,New York,Secret Factory,125.1
+225,Redmond,Oregon,Lot's O' Nuts,111.8
+226,Pasadena,California,Lot's O' Nuts,142.3
+227,Irving,Texas,Wicked Choccy's,92.1
+228,Irving,Texas,Lot's O' Nuts,92.1
+229,Charlottesville,Virginia,Wicked Choccy's,100.8
+230,Auburn,Washington,Lot's O' Nuts,114.1
+231,Montgomery,Alabama,Wicked Choccy's,88.6
+232,Montgomery,Alabama,Secret Factory,88.6
+233,Longmont,Colorado,Lot's O' Nuts,102.7
+234,Provo,Utah,Wicked Choccy's,102.2
+235,Provo,Utah,Lot's O' Nuts,102.2
+236,San Francisco,California,The Other Factory,142.3
+237,Tampa,Florida,Lot's O' Nuts,102.2
+238,Redondo Beach,California,Lot's O' Nuts,142.3
+239,Cleveland,Ohio,Lot's O' Nuts,94.3
+240,Noblesville,Indiana,Secret Factory,91.0
+241,Palatine,Illinois,Wicked Choccy's,94.7
+242,Boynton Beach,Florida,Lot's O' Nuts,102.2
+243,Boynton Beach,Florida,Wicked Choccy's,102.2
+244,Pasadena,Texas,Wicked Choccy's,92.1
+245,Pasadena,Texas,Secret Factory,92.1
+246,Akron,Ohio,Wicked Choccy's,94.3
+247,Meriden,Connecticut,Lot's O' Nuts,112.7
+248,Bristol,Connecticut,Wicked Choccy's,112.7
+249,Bristol,Connecticut,Lot's O' Nuts,112.7
+250,Morristown,New Jersey,Wicked Choccy's,115.1
+251,Morristown,New Jersey,Lot's O' Nuts,115.1
+252,Farmington,New Mexico,Wicked Choccy's,93.7
+253,Allen,Texas,Lot's O' Nuts,92.1
+254,Bakersfield,California,Lot's O' Nuts,142.3
+255,Aurora,Illinois,Wicked Choccy's,94.7
+256,Helena,Montana,Lot's O' Nuts,95.5
+257,Minneapolis,Minnesota,Wicked Choccy's,94.6
+258,Oceanside,California,Lot's O' Nuts,142.3
+259,Oceanside,California,Wicked Choccy's,142.3
+260,Wheeling,Illinois,Wicked Choccy's,94.7
+261,San Antonio,Texas,Lot's O' Nuts,92.1
+262,Sierra Vista,Arizona,Lot's O' Nuts,110.7
+263,Inglewood,California,Lot's O' Nuts,142.3
+264,Inglewood,California,Wicked Choccy's,142.3
+265,Saint Charles,Missouri,Lot's O' Nuts,89.0
+266,Fort Worth,Texas,Lot's O' Nuts,92.1
+267,Fort Worth,Texas,Wicked Choccy's,92.1
+268,Vineland,New Jersey,Lot's O' Nuts,115.1
+269,Vineland,New Jersey,Wicked Choccy's,115.1
+270,Columbia,Maryland,Wicked Choccy's,115.4
+271,Columbia,Maryland,Lot's O' Nuts,115.4
+272,Oakland,California,Lot's O' Nuts,142.3
+273,El Cajon,California,Lot's O' Nuts,142.3
+274,Odessa,Texas,Wicked Choccy's,92.1
+275,Laguna Niguel,California,Lot's O' Nuts,142.3
+276,Woodland,California,Wicked Choccy's,142.3
+277,Providence,Rhode Island,Lot's O' Nuts,110.6
+278,Green Bay,Wisconsin,Lot's O' Nuts,97.7
+279,Newport News,Virginia,Lot's O' Nuts,100.8
+280,Richmond,Virginia,Lot's O' Nuts,100.8
+281,Springfield,Virginia,The Other Factory,100.8
+282,Fresno,California,Lot's O' Nuts,142.3
+283,Fresno,California,Wicked Choccy's,142.3
+284,Monroe,Louisiana,Lot's O' Nuts,92.3
+285,Monroe,Louisiana,Wicked Choccy's,92.3
+286,Lancaster,Pennsylvania,Lot's O' Nuts,97.2
+287,Wilmington,North Carolina,Wicked Choccy's,97.8
+288,Lawton,Oklahoma,Wicked Choccy's,86.0
+289,Bowling Green,Kentucky,Wicked Choccy's,92.5
+290,Richmond,Kentucky,Wicked Choccy's,92.5
+291,Richmond,Kentucky,Lot's O' Nuts,92.5
+292,Newark,Ohio,Lot's O' Nuts,94.3
+293,Lafayette,Louisiana,Wicked Choccy's,92.3
+294,Edmonds,Washington,Wicked Choccy's,114.1
+295,Edmonds,Washington,Lot's O' Nuts,114.1
+296,Rome,New York,Lot's O' Nuts,125.1
+297,Rome,New York,Wicked Choccy's,125.1
+298,Jackson,Michigan,Secret Factory,90.1
+299,Lancaster,Ohio,Lot's O' Nuts,94.3
+300,Appleton,Wisconsin,Wicked Choccy's,97.7
+301,Concord,California,Wicked Choccy's,142.3
+302,Miami,Florida,Wicked Choccy's,102.2
+303,Des Moines,Iowa,Lot's O' Nuts,89.7
+304,Olathe,Kansas,Lot's O' Nuts,88.8
+305,Charlotte,North Carolina,Wicked Choccy's,97.8
+306,Fayetteville,North Carolina,Lot's O' Nuts,97.8
+307,Columbus,Indiana,Wicked Choccy's,91.0
+308,Columbus,Indiana,Lot's O' Nuts,91.0
+309,Philadelphia,Pennsylvania,The Other Factory,97.2
+310,Aurora,Colorado,Wicked Choccy's,102.7
+311,Pasadena,Texas,Lot's O' Nuts,92.1
+312,Pasadena,California,Wicked Choccy's,142.3
+313,Jacksonville,Florida,Wicked Choccy's,102.2
+314,Arlington,Texas,Wicked Choccy's,92.1
+315,Arlington,Texas,Secret Factory,92.1
+316,Modesto,California,Lot's O' Nuts,142.3
+317,Montgomery,Alabama,Lot's O' Nuts,88.6
+318,Raleigh,North Carolina,Lot's O' Nuts,97.8
+319,Raleigh,North Carolina,Wicked Choccy's,97.8
+320,Sacramento,California,Lot's O' Nuts,142.3
+321,Albuquerque,New Mexico,Wicked Choccy's,93.7
+322,Albuquerque,New Mexico,Lot's O' Nuts,93.7
+323,Memphis,Tennessee,Wicked Choccy's,90.3
+324,Nashville,Tennessee,Wicked Choccy's,90.3
+325,The Colony,Texas,Lot's O' Nuts,92.1
+326,Greensboro,North Carolina,Wicked Choccy's,97.8
+327,Watertown,New York,Wicked Choccy's,125.1
+328,Cincinnati,Ohio,Lot's O' Nuts,94.3
+329,Woodstock,Illinois,Lot's O' Nuts,94.7
+330,Garden City,Kansas,Wicked Choccy's,88.8
+331,Delray Beach,Florida,Wicked Choccy's,102.2
+332,Garden City,Kansas,Lot's O' Nuts,88.8
+333,Hialeah,Florida,Lot's O' Nuts,102.2
+334,Newark,Delaware,Wicked Choccy's,101.9
+335,Johnson City,Tennessee,Wicked Choccy's,90.3
+336,Johnson City,Tennessee,Lot's O' Nuts,90.3
+337,San Bernardino,California,Wicked Choccy's,142.3
+338,San Bernardino,California,Lot's O' Nuts,142.3
+339,Santa Ana,California,Lot's O' Nuts,142.3
+340,San Antonio,Texas,Wicked Choccy's,92.1
+341,Des Moines,Washington,Lot's O' Nuts,114.1
+342,Santa Barbara,California,Lot's O' Nuts,142.3
+343,Gaithersburg,Maryland,Wicked Choccy's,115.4
+344,Gaithersburg,Maryland,Secret Factory,115.4
+345,Montebello,California,Wicked Choccy's,142.3
+346,Ann Arbor,Michigan,Lot's O' Nuts,90.1
+347,Ann Arbor,Michigan,Wicked Choccy's,90.1
+348,Columbus,Indiana,Secret Factory,91.0
+349,Columbia,Maryland,Secret Factory,115.4
+350,Elyria,Ohio,Wicked Choccy's,94.3
+351,Milwaukee,Wisconsin,Wicked Choccy's,97.7
+352,Buffalo Grove,Illinois,Wicked Choccy's,94.7
+353,Deltona,Florida,Lot's O' Nuts,102.2
+354,Columbus,Ohio,Wicked Choccy's,94.3
+355,Harrisonburg,Virginia,Wicked Choccy's,100.8
+356,Cary,North Carolina,Lot's O' Nuts,97.8
+357,Cary,North Carolina,Wicked Choccy's,97.8
+358,Chicago,Illinois,Secret Factory,94.7
+359,Lakeville,Minnesota,Wicked Choccy's,94.6
+360,Lakeville,Minnesota,Lot's O' Nuts,94.6
+361,Broken Arrow,Oklahoma,Lot's O' Nuts,86.0
+362,Broken Arrow,Oklahoma,Wicked Choccy's,86.0
+363,San Diego,California,Secret Factory,142.3
+364,Roseville,Minnesota,Lot's O' Nuts,94.6
+365,Plainfield,New Jersey,Lot's O' Nuts,115.1
+366,Plainfield,New Jersey,The Other Factory,115.1
+367,Peoria,Illinois,Lot's O' Nuts,94.7
+368,Oxnard,California,Lot's O' Nuts,142.3
+369,Oxnard,California,Wicked Choccy's,142.3
+370,Louisville,Colorado,Lot's O' Nuts,102.7
+371,El Paso,Texas,Wicked Choccy's,92.1
+372,Paterson,New Jersey,Wicked Choccy's,115.1
+373,Paterson,New Jersey,Lot's O' Nuts,115.1
+374,Coral Springs,Florida,Wicked Choccy's,102.2
+375,Arvada,Colorado,Lot's O' Nuts,102.7
+376,Arvada,Colorado,Wicked Choccy's,102.7
+377,Seattle,Washington,Secret Factory,114.1
+378,Troy,Ohio,Lot's O' Nuts,94.3
+379,Spokane,Washington,Wicked Choccy's,114.1
+380,Evanston,Illinois,Lot's O' Nuts,94.7
+381,Decatur,Illinois,Wicked Choccy's,94.7
+382,Concord,North Carolina,Lot's O' Nuts,97.8
+383,Lakewood,New Jersey,Lot's O' Nuts,115.1
+384,Lakewood,New Jersey,Wicked Choccy's,115.1
+385,Lakewood,New Jersey,The Other Factory,115.1
+386,Skokie,Illinois,Lot's O' Nuts,94.7
+387,Bowling Green,Ohio,Lot's O' Nuts,94.3
+388,Denver,Colorado,Secret Factory,102.7
+389,Gilbert,Arizona,Secret Factory,110.7
+390,Gilbert,Arizona,Wicked Choccy's,110.7
+391,New York City,New York,Sugar Shack,125.1
+392,San Gabriel,California,Lot's O' Nuts,142.3
+393,San Gabriel,California,Wicked Choccy's,142.3
+394,Superior,Wisconsin,Wicked Choccy's,97.7
+395,Costa Mesa,California,Secret Factory,142.3
+396,Costa Mesa,California,Lot's O' Nuts,142.3
+397,Altoona,Pennsylvania,Wicked Choccy's,97.2
+398,Littleton,Colorado,Lot's O' Nuts,102.7
+399,Frankfort,Illinois,Lot's O' Nuts,94.7
+400,Clinton,Maryland,Lot's O' Nuts,115.4
+401,Clinton,Maryland,Wicked Choccy's,115.4
+402,Milford,Connecticut,Lot's O' Nuts,112.7
+403,Newark,Ohio,Wicked Choccy's,94.3
+404,Smyrna,Tennessee,Lot's O' Nuts,90.3
+405,Smyrna,Tennessee,Wicked Choccy's,90.3
+406,Oceanside,New York,Lot's O' Nuts,125.1
+407,Oceanside,New York,Wicked Choccy's,125.1
+408,Des Moines,Iowa,Wicked Choccy's,89.7
+409,Milwaukee,Wisconsin,Secret Factory,97.7
+410,Greensboro,North Carolina,Lot's O' Nuts,97.8
+411,Greensboro,North Carolina,Secret Factory,97.8
+412,Spokane,Washington,Lot's O' Nuts,114.1
+413,Hampton,Virginia,Lot's O' Nuts,100.8
+414,Skokie,Illinois,Wicked Choccy's,94.7
+415,Rapid City,South Dakota,Wicked Choccy's,91.9
+416,Port Arthur,Texas,Lot's O' Nuts,92.1
+417,Warwick,Rhode Island,Lot's O' Nuts,110.6
+418,Hoover,Alabama,Lot's O' Nuts,88.6
+419,Lakewood,Ohio,Wicked Choccy's,94.3
+420,Cleveland,Ohio,The Other Factory,94.3
+421,Farmington,New Mexico,Lot's O' Nuts,93.7
+422,Wilmington,Delaware,Lot's O' Nuts,101.9
+423,Waco,Texas,Wicked Choccy's,92.1
+424,Chattanooga,Tennessee,Wicked Choccy's,90.3
+425,Chattanooga,Tennessee,Lot's O' Nuts,90.3
+426,Bristol,Connecticut,The Other Factory,112.7
+427,Cincinnati,Ohio,Secret Factory,94.3
+428,Hamilton,Ohio,Wicked Choccy's,94.3
+429,Cedar Hill,Texas,Lot's O' Nuts,92.1
+430,East Orange,New Jersey,Wicked Choccy's,115.1
+431,East Orange,New Jersey,Lot's O' Nuts,115.1
+432,Waco,Texas,Lot's O' Nuts,92.1
+433,Decatur,Alabama,Lot's O' Nuts,88.6
+434,Lakewood,Ohio,Lot's O' Nuts,94.3
+435,Newark,Delaware,Lot's O' Nuts,101.9
+436,Cuyahoga Falls,Ohio,Lot's O' Nuts,94.3
+437,Camarillo,California,Lot's O' Nuts,142.3
+438,Camarillo,California,Wicked Choccy's,142.3
+439,Franklin,Massachusetts,Wicked Choccy's,141.2
+440,Burlington,Vermont,Secret Factory,113.6
+441,Burlington,Vermont,Lot's O' Nuts,113.6
+442,Burlington,Vermont,Wicked Choccy's,113.6
+443,Southaven,Mississippi,Lot's O' Nuts,87.3
+444,Southaven,Mississippi,Wicked Choccy's,87.3
+445,Chapel Hill,North Carolina,Lot's O' Nuts,97.8
+446,El Paso,Texas,Lot's O' Nuts,92.1
+447,Owensboro,Kentucky,Lot's O' Nuts,92.5
+448,La Porte,Indiana,Wicked Choccy's,91.0
+449,La Porte,Indiana,Lot's O' Nuts,91.0
+450,Westminster,California,Lot's O' Nuts,142.3
+451,Fairfield,Connecticut,Wicked Choccy's,112.7
+452,Fayetteville,North Carolina,Wicked Choccy's,97.8
+453,Redmond,Washington,Wicked Choccy's,114.1
+454,Lakewood,California,Wicked Choccy's,142.3
+455,Moorhead,Minnesota,Wicked Choccy's,94.6
+456,Plano,Texas,Wicked Choccy's,92.1
+457,Durham,North Carolina,Lot's O' Nuts,97.8
+458,Bloomington,Indiana,Lot's O' Nuts,91.0
+459,Lubbock,Texas,Lot's O' Nuts,92.1
+460,Lake Elsinore,California,Lot's O' Nuts,142.3
+461,Wichita,Kansas,Lot's O' Nuts,88.8
+462,Medford,Oregon,Lot's O' Nuts,111.8
+463,Tyler,Texas,Lot's O' Nuts,92.1
+464,Tyler,Texas,Wicked Choccy's,92.1
+465,Moreno Valley,California,The Other Factory,142.3
+466,Moreno Valley,California,Lot's O' Nuts,142.3
+467,Moreno Valley,California,Wicked Choccy's,142.3
+468,Shelton,Connecticut,Lot's O' Nuts,112.7
+469,Shelton,Connecticut,Wicked Choccy's,112.7
+470,Bristol,Tennessee,The Other Factory,90.3
+471,Long Beach,New York,Wicked Choccy's,125.1
+472,Allentown,Pennsylvania,Lot's O' Nuts,97.2
+473,Hempstead,New York,Lot's O' Nuts,125.1
+474,Hempstead,New York,Wicked Choccy's,125.1
+475,Apopka,Florida,Lot's O' Nuts,102.2
+476,Apopka,Florida,Wicked Choccy's,102.2
+477,Hillsboro,Oregon,Lot's O' Nuts,111.8
+478,Hillsboro,Oregon,Wicked Choccy's,111.8
+479,Santa Clara,California,Wicked Choccy's,142.3
+480,Santa Clara,California,Lot's O' Nuts,142.3
+481,Mcallen,Texas,Wicked Choccy's,92.1
+482,Mcallen,Texas,Lot's O' Nuts,92.1
+483,Everett,Massachusetts,Lot's O' Nuts,141.2
+484,Renton,Washington,Wicked Choccy's,114.1
+485,Renton,Washington,Lot's O' Nuts,114.1
+486,Orem,Utah,Wicked Choccy's,102.2
+487,Orem,Utah,Lot's O' Nuts,102.2
+488,Hot Springs,Arkansas,Lot's O' Nuts,89.6
+489,Hot Springs,Arkansas,Wicked Choccy's,89.6
+490,Troy,Ohio,Wicked Choccy's,94.3
+491,Marietta,Georgia,Wicked Choccy's,92.5
+492,Little Rock,Arkansas,Lot's O' Nuts,89.6
+493,Little Rock,Arkansas,Wicked Choccy's,89.6
+494,Grove City,Ohio,Wicked Choccy's,94.3
+495,Grove City,Ohio,Lot's O' Nuts,94.3
+496,Linden,New Jersey,Lot's O' Nuts,115.1
+497,Long Beach,New York,Secret Factory,125.1
+498,Everett,Massachusetts,Wicked Choccy's,141.2
+499,Columbia,South Carolina,Lot's O' Nuts,94.7
+500,Gresham,Oregon,Lot's O' Nuts,111.8
+501,Urbandale,Iowa,Wicked Choccy's,89.7
+502,Urbandale,Iowa,Lot's O' Nuts,89.7
+503,Reading,Pennsylvania,Lot's O' Nuts,97.2
+504,Lancaster,California,Wicked Choccy's,142.3
+505,Colorado Springs,Colorado,Wicked Choccy's,102.7
+506,Colorado Springs,Colorado,Lot's O' Nuts,102.7
+507,Aurora,Colorado,Lot's O' Nuts,102.7
+508,Florence,Kentucky,Lot's O' Nuts,92.5
+509,El Paso,Texas,The Other Factory,92.1
+510,New Bedford,Massachusetts,Wicked Choccy's,141.2
+511,Brownsville,Texas,Lot's O' Nuts,92.1
+512,Utica,New York,Lot's O' Nuts,125.1
+513,Rochester,Minnesota,Lot's O' Nuts,94.6
+514,Rochester,Minnesota,Wicked Choccy's,94.6
+515,Watertown,New York,Lot's O' Nuts,125.1
+516,Atlanta,Georgia,Wicked Choccy's,92.5
+517,North Charleston,South Carolina,Wicked Choccy's,94.7
+518,Redlands,California,Lot's O' Nuts,142.3
+519,Redlands,California,Wicked Choccy's,142.3
+520,Seattle,Washington,The Other Factory,114.1
+521,Huntsville,Texas,Lot's O' Nuts,92.1
+522,Lawton,Oklahoma,Lot's O' Nuts,86.0
+523,Florence,South Carolina,Lot's O' Nuts,94.7
+524,Covington,Washington,Wicked Choccy's,114.1
+525,Norwich,Connecticut,Wicked Choccy's,112.7
+526,Delray Beach,Florida,Lot's O' Nuts,102.2
+527,Quincy,Illinois,Wicked Choccy's,94.7
+528,Quincy,Illinois,Lot's O' Nuts,94.7
+529,Warwick,Rhode Island,Secret Factory,110.6
+530,Waterbury,Connecticut,Wicked Choccy's,112.7
+531,Elmhurst,Illinois,Lot's O' Nuts,94.7
+532,Elmhurst,Illinois,Wicked Choccy's,94.7
+533,Grand Rapids,Michigan,Lot's O' Nuts,90.1
+534,West Palm Beach,Florida,Wicked Choccy's,102.2
+535,Lakeland,Florida,Lot's O' Nuts,102.2
+536,Fairfield,Ohio,Lot's O' Nuts,94.3
+537,Freeport,New York,Wicked Choccy's,125.1
+538,Freeport,New York,Lot's O' Nuts,125.1
+539,Jackson,Mississippi,Lot's O' Nuts,87.3
+540,Englewood,Colorado,Wicked Choccy's,102.7
+541,Columbia,Tennessee,Lot's O' Nuts,90.3
+542,Iowa City,Iowa,Lot's O' Nuts,89.7
+543,Bossier City,Louisiana,Wicked Choccy's,92.3
+544,Bossier City,Louisiana,The Other Factory,92.3
+545,Bossier City,Louisiana,Lot's O' Nuts,92.3
+546,Columbia,South Carolina,Wicked Choccy's,94.7
+547,Woodbury,Minnesota,Lot's O' Nuts,94.6
+548,Woodbury,Minnesota,Wicked Choccy's,94.6
+549,Haltom City,Texas,Lot's O' Nuts,92.1
+550,Green Bay,Wisconsin,Wicked Choccy's,97.7
+551,Hollywood,Florida,Wicked Choccy's,102.2
+552,Long Beach,California,Wicked Choccy's,142.3
+553,Long Beach,California,Lot's O' Nuts,142.3
+554,Roswell,Georgia,Wicked Choccy's,92.5
+555,Dublin,Ohio,Lot's O' Nuts,94.3
+556,San Jose,California,Lot's O' Nuts,142.3
+557,Fargo,North Dakota,Lot's O' Nuts,91.4
+558,Toledo,Ohio,Secret Factory,94.3
+559,Lakeland,Florida,Wicked Choccy's,102.2
+560,Conroe,Texas,Lot's O' Nuts,92.1
+561,Pomona,California,Lot's O' Nuts,142.3
+562,Thomasville,North Carolina,Lot's O' Nuts,97.8
+563,Lancaster,Ohio,Wicked Choccy's,94.3
+564,Indianapolis,Indiana,Wicked Choccy's,91.0
+565,Apple Valley,Minnesota,Lot's O' Nuts,94.6
+566,Austin,Texas,The Other Factory,92.1
+567,Fremont,Nebraska,Lot's O' Nuts,92.6
+568,Bozeman,Montana,Lot's O' Nuts,95.5
+569,Gilbert,Arizona,Lot's O' Nuts,110.7
+570,Oakland,California,Wicked Choccy's,142.3
+571,Springfield,Ohio,Wicked Choccy's,94.3
+572,Washington,District of Columbia,Lot's O' Nuts,138.8
+573,Lake Forest,California,Lot's O' Nuts,142.3
+574,Lake Forest,California,Wicked Choccy's,142.3
+575,Columbus,Georgia,The Other Factory,92.5
+576,Salinas,California,Wicked Choccy's,142.3
+577,Costa Mesa,California,Wicked Choccy's,142.3
+578,Marion,Ohio,Secret Factory,94.3
+579,Marion,Ohio,Wicked Choccy's,94.3
+580,Port Saint Lucie,Florida,Lot's O' Nuts,102.2
+581,Hickory,North Carolina,Wicked Choccy's,97.8
+582,San Diego,California,The Other Factory,142.3
+583,Providence,Rhode Island,Secret Factory,110.6
+584,Portland,Oregon,Wicked Choccy's,111.8
+585,Salt Lake City,Utah,Wicked Choccy's,102.2
+586,Riverside,California,Wicked Choccy's,142.3
+587,Orlando,Florida,Wicked Choccy's,102.2
+588,Fayetteville,Arkansas,Lot's O' Nuts,89.6
+589,Newark,Delaware,The Other Factory,101.9
+590,Dublin,Ohio,Wicked Choccy's,94.3
+591,Asheville,North Carolina,Wicked Choccy's,97.8
+592,Asheville,North Carolina,Lot's O' Nuts,97.8
+593,Middletown,Connecticut,Lot's O' Nuts,112.7
+594,North Miami,Florida,Lot's O' Nuts,102.2
+595,Memphis,Tennessee,Lot's O' Nuts,90.3
+596,Roseville,Michigan,Lot's O' Nuts,90.1
+597,Cottage Grove,Minnesota,Wicked Choccy's,94.6
+598,Cottage Grove,Minnesota,Lot's O' Nuts,94.6
+599,Warner Robins,Georgia,Lot's O' Nuts,92.5
+600,Alexandria,Virginia,Lot's O' Nuts,100.8
+601,Dubuque,Iowa,Wicked Choccy's,89.7
+602,Dubuque,Iowa,Lot's O' Nuts,89.7
+603,Springfield,Ohio,Lot's O' Nuts,94.3
+604,Springfield,Ohio,The Other Factory,94.3
+605,Vallejo,California,Lot's O' Nuts,142.3
+606,Vallejo,California,Wicked Choccy's,142.3
+607,Rockford,Illinois,Wicked Choccy's,94.7
+608,Orange,New Jersey,Wicked Choccy's,115.1
+609,Fairfield,California,Wicked Choccy's,142.3
+610,Fairfield,California,Lot's O' Nuts,142.3
+611,Woonsocket,Rhode Island,Lot's O' Nuts,110.6
+612,Murfreesboro,Tennessee,Lot's O' Nuts,90.3
+613,Tempe,Arizona,Lot's O' Nuts,110.7
+614,Salinas,California,Lot's O' Nuts,142.3
+615,Roseville,California,Wicked Choccy's,142.3
+616,Franklin,Tennessee,Lot's O' Nuts,90.3
+617,Springfield,Oregon,Lot's O' Nuts,111.8
+618,Springfield,Oregon,Wicked Choccy's,111.8
+619,Kenosha,Wisconsin,Lot's O' Nuts,97.7
+620,Kenosha,Wisconsin,Wicked Choccy's,97.7
+621,Rockford,Illinois,Lot's O' Nuts,94.7
+622,Miramar,Florida,Wicked Choccy's,102.2
+623,Miramar,Florida,Lot's O' Nuts,102.2
+624,Hendersonville,Tennessee,Wicked Choccy's,90.3
+625,Hendersonville,Tennessee,Lot's O' Nuts,90.3
+626,Fremont,Nebraska,Wicked Choccy's,92.6
+627,Orlando,Florida,Lot's O' Nuts,102.2
+628,Westland,Michigan,Wicked Choccy's,90.1
+629,Westland,Michigan,Lot's O' Nuts,90.1
+630,Lancaster,Pennsylvania,Wicked Choccy's,97.2
+631,Abilene,Texas,Wicked Choccy's,92.1
+632,Keller,Texas,Lot's O' Nuts,92.1
+633,Greenville,North Carolina,Wicked Choccy's,97.8
+634,Noblesville,Indiana,Lot's O' Nuts,91.0
+635,Noblesville,Indiana,Wicked Choccy's,91.0
+636,Eagan,Minnesota,Lot's O' Nuts,94.6
+637,Eagan,Minnesota,Wicked Choccy's,94.6
+638,Romeoville,Illinois,Lot's O' Nuts,94.7
+639,Las Cruces,New Mexico,Lot's O' Nuts,93.7
+640,Thousand Oaks,California,Wicked Choccy's,142.3
+641,Thousand Oaks,California,Lot's O' Nuts,142.3
+642,Lincoln Park,Michigan,Wicked Choccy's,90.1
+643,Lincoln Park,Michigan,Lot's O' Nuts,90.1
+644,Yuma,Arizona,Wicked Choccy's,110.7
+645,Encinitas,California,Wicked Choccy's,142.3
+646,Encinitas,California,Lot's O' Nuts,142.3
+647,Palm Coast,Florida,The Other Factory,102.2
+648,Pine Bluff,Arkansas,Wicked Choccy's,89.6
+649,Pine Bluff,Arkansas,Lot's O' Nuts,89.6
+650,Carrollton,Texas,Wicked Choccy's,92.1
+651,New Albany,Indiana,Lot's O' Nuts,91.0
+652,Meridian,Idaho,Lot's O' Nuts,99.9
+653,Murray,Utah,Lot's O' Nuts,102.2
+654,Revere,Massachusetts,Wicked Choccy's,141.2
+655,Revere,Massachusetts,Lot's O' Nuts,141.2
+656,Westfield,New Jersey,Wicked Choccy's,115.1
+657,Westfield,New Jersey,Secret Factory,115.1
+658,Maple Grove,Minnesota,Lot's O' Nuts,94.6
+659,Maple Grove,Minnesota,Wicked Choccy's,94.6
+660,Waterbury,Connecticut,Sugar Shack,112.7
+661,North Las Vegas,Nevada,Lot's O' Nuts,100.2
+662,North Las Vegas,Nevada,Wicked Choccy's,100.2
+663,Franklin,Wisconsin,Wicked Choccy's,97.7
+664,Tuscaloosa,Alabama,Lot's O' Nuts,88.6
+665,Gresham,Oregon,Wicked Choccy's,111.8
+666,Milford,Connecticut,Secret Factory,112.7
+667,Albuquerque,New Mexico,Secret Factory,93.7
+668,Normal,Illinois,Lot's O' Nuts,94.7
+669,Providence,Rhode Island,Sugar Shack,110.6
+670,Lake Charles,Louisiana,Wicked Choccy's,92.3
+671,Hollywood,Florida,Secret Factory,102.2
+672,Seattle,Washington,Sugar Shack,114.1
+673,Jamestown,New York,Lot's O' Nuts,125.1
+674,San Francisco,California,Secret Factory,142.3
+675,Amarillo,Texas,Lot's O' Nuts,92.1
+676,Lakeville,Minnesota,Secret Factory,94.6
+677,Jackson,Tennessee,Lot's O' Nuts,90.3
+678,Jackson,Tennessee,Wicked Choccy's,90.3
+679,Columbus,Ohio,Secret Factory,94.3
+680,Fayetteville,North Carolina,Secret Factory,97.8
+681,Westfield,New Jersey,Lot's O' Nuts,115.1
+682,Mason,Ohio,Wicked Choccy's,94.3
+683,Mason,Ohio,Secret Factory,94.3
+684,Mason,Ohio,Lot's O' Nuts,94.3
+685,Mansfield,Texas,Lot's O' Nuts,92.1
+686,Akron,Ohio,Lot's O' Nuts,94.3
+687,Akron,Ohio,Secret Factory,94.3
+688,Buffalo,New York,Wicked Choccy's,125.1
+689,Laguna Niguel,California,Wicked Choccy's,142.3
+690,Redding,California,Wicked Choccy's,142.3
+691,La Crosse,Wisconsin,Wicked Choccy's,97.7
+692,Laredo,Texas,Lot's O' Nuts,92.1
+693,Chesapeake,Virginia,Wicked Choccy's,100.8
+694,Naperville,Illinois,Lot's O' Nuts,94.7
+695,Lodi,California,Lot's O' Nuts,142.3
+696,Sacramento,California,Wicked Choccy's,142.3
+697,Hialeah,Florida,Wicked Choccy's,102.2
+698,Jonesboro,Arkansas,Lot's O' Nuts,89.6
+699,Jonesboro,Arkansas,Wicked Choccy's,89.6
+700,Lansing,Michigan,Wicked Choccy's,90.1
+701,Newport News,Virginia,The Other Factory,100.8
+702,Newport News,Virginia,Wicked Choccy's,100.8
+703,Wheeling,West Virginia,Wicked Choccy's,88.3
+704,Wheeling,West Virginia,Lot's O' Nuts,88.3
+705,West Palm Beach,Florida,Lot's O' Nuts,102.2
+706,Gulfport,Mississippi,Lot's O' Nuts,87.3
+707,Santa Ana,California,Wicked Choccy's,142.3
+708,Escondido,California,Lot's O' Nuts,142.3
+709,Jefferson City,Missouri,Lot's O' Nuts,89.0
+710,Dover,New Hampshire,Wicked Choccy's,111.4
+711,Sandy Springs,Georgia,Lot's O' Nuts,92.5
+712,Sandy Springs,Georgia,Wicked Choccy's,92.5
+713,Hollywood,Florida,The Other Factory,102.2
+714,Sioux Falls,South Dakota,Lot's O' Nuts,91.9
+715,Sioux Falls,South Dakota,Wicked Choccy's,91.9
+716,Frisco,Texas,Lot's O' Nuts,92.1
+717,Phoenix,Arizona,The Other Factory,110.7
+718,Superior,Wisconsin,Lot's O' Nuts,97.7
+719,Lehi,Utah,Wicked Choccy's,102.2
+720,Glendale,Arizona,Wicked Choccy's,110.7
+721,Virginia Beach,Virginia,Wicked Choccy's,100.8
+722,Dover,New Hampshire,Lot's O' Nuts,111.4
+723,Deltona,Florida,Wicked Choccy's,102.2
+724,Tempe,Arizona,Wicked Choccy's,110.7
+725,Dearborn Heights,Michigan,Lot's O' Nuts,90.1
+726,Dearborn Heights,Michigan,Wicked Choccy's,90.1
+727,Saint Paul,Minnesota,Lot's O' Nuts,94.6
+728,Tempe,Arizona,Secret Factory,110.7
+729,Providence,Rhode Island,The Other Factory,110.6
+730,Tucson,Arizona,Secret Factory,110.7
+731,Melbourne,Florida,Secret Factory,102.2
+732,Denver,Colorado,The Other Factory,102.7
+733,Columbia,Missouri,Wicked Choccy's,89.0
+734,Columbia,Missouri,Lot's O' Nuts,89.0
+735,Pueblo,Colorado,Wicked Choccy's,102.7
+736,Torrance,California,Wicked Choccy's,142.3
+737,Torrance,California,Lot's O' Nuts,142.3
+738,Mesquite,Texas,Lot's O' Nuts,92.1
+739,San Francisco,California,Sugar Shack,142.3
+740,Hempstead,New York,Secret Factory,125.1
+741,Bakersfield,California,Wicked Choccy's,142.3
+742,Philadelphia,Pennsylvania,Sugar Shack,97.2
+743,Bryan,Texas,Lot's O' Nuts,92.1
+744,Bryan,Texas,Wicked Choccy's,92.1
+745,Amarillo,Texas,Wicked Choccy's,92.1
+746,Bolingbrook,Illinois,Lot's O' Nuts,94.7
+747,Harrisonburg,Virginia,Lot's O' Nuts,100.8
+748,Huntsville,Alabama,Lot's O' Nuts,88.6
+749,Lancaster,California,Lot's O' Nuts,142.3
+750,Mount Pleasant,Michigan,Lot's O' Nuts,90.1
+751,Rogers,Arkansas,Lot's O' Nuts,89.6
+752,Monroe,North Carolina,Lot's O' Nuts,97.8
+753,Dover,Delaware,Wicked Choccy's,101.9
+754,Auburn,New York,Lot's O' Nuts,125.1
+755,Bellingham,Washington,Wicked Choccy's,114.1
+756,Everett,Washington,Lot's O' Nuts,114.1
+757,Bristol,Tennessee,Wicked Choccy's,90.3
+758,Antioch,California,Lot's O' Nuts,142.3
+759,Chico,California,Wicked Choccy's,142.3
+760,Chico,California,Lot's O' Nuts,142.3
+761,Chico,California,Secret Factory,142.3
+762,Bloomington,Illinois,Lot's O' Nuts,94.7
+763,Perth Amboy,New Jersey,Lot's O' Nuts,115.1
+764,Perth Amboy,New Jersey,Wicked Choccy's,115.1
+765,Yuma,Arizona,Lot's O' Nuts,110.7
+766,Modesto,California,Wicked Choccy's,142.3
+767,Richardson,Texas,Wicked Choccy's,92.1
+768,Richardson,Texas,Lot's O' Nuts,92.1
+769,Salem,Oregon,The Other Factory,111.8
+770,Dallas,Texas,The Other Factory,92.1
+771,Hesperia,California,Lot's O' Nuts,142.3
+772,Hesperia,California,Wicked Choccy's,142.3
+773,Franklin,Massachusetts,The Other Factory,141.2
+774,Concord,New Hampshire,Wicked Choccy's,111.4
+775,Concord,New Hampshire,Secret Factory,111.4
+776,Pharr,Texas,Lot's O' Nuts,92.1
+777,San Jose,California,Wicked Choccy's,142.3
+778,Leominster,Massachusetts,Wicked Choccy's,141.2
+779,Leominster,Massachusetts,Lot's O' Nuts,141.2
+780,Leominster,Massachusetts,The Other Factory,141.2
+781,Wilmington,Delaware,Wicked Choccy's,101.9
+782,Burlington,North Carolina,Lot's O' Nuts,97.8
+783,Burlington,North Carolina,Secret Factory,97.8
+784,Buffalo,New York,Lot's O' Nuts,125.1
+785,Washington,District of Columbia,Wicked Choccy's,138.8
+786,Harlingen,Texas,Wicked Choccy's,92.1
+787,Harlingen,Texas,Lot's O' Nuts,92.1
+788,Texas City,Texas,Lot's O' Nuts,92.1
+789,Rio Rancho,New Mexico,Wicked Choccy's,93.7
+790,Bullhead City,Arizona,Lot's O' Nuts,110.7
+791,Thousand Oaks,California,Secret Factory,142.3
+792,Laredo,Texas,Wicked Choccy's,92.1
+793,Cambridge,Massachusetts,Wicked Choccy's,141.2
+794,Cambridge,Massachusetts,Lot's O' Nuts,141.2
+795,Lake Charles,Louisiana,Lot's O' Nuts,92.3
+796,Mesquite,Texas,Wicked Choccy's,92.1
+797,Kenner,Louisiana,Lot's O' Nuts,92.3
+798,Boise,Idaho,Lot's O' Nuts,99.9
+799,Franklin,Tennessee,Wicked Choccy's,90.3
+800,Richmond,Indiana,Lot's O' Nuts,91.0
+801,Dallas,Texas,Secret Factory,92.1
+802,Springfield,Missouri,The Other Factory,89.0
+803,Loveland,Colorado,Wicked Choccy's,102.7
+804,Loveland,Colorado,Secret Factory,102.7
+805,Concord,New Hampshire,The Other Factory,111.4
+806,Richmond,Indiana,Wicked Choccy's,91.0
+807,Huntington Beach,California,Wicked Choccy's,142.3
+808,Norwich,Connecticut,Lot's O' Nuts,112.7
+809,Florence,Alabama,Lot's O' Nuts,88.6
+810,Mount Vernon,New York,Lot's O' Nuts,125.1
+811,Sunnyvale,California,Lot's O' Nuts,142.3
+812,Rockford,Illinois,Secret Factory,94.7
+813,Longview,Washington,Wicked Choccy's,114.1
+814,Roseville,Michigan,Wicked Choccy's,90.1
+815,Salt Lake City,Utah,Lot's O' Nuts,102.2
+816,Chula Vista,California,Wicked Choccy's,142.3
+817,Columbus,Georgia,Secret Factory,92.5
+818,Danbury,Connecticut,Wicked Choccy's,112.7
+819,Kent,Washington,Lot's O' Nuts,114.1
+820,Macon,Georgia,Wicked Choccy's,92.5
+821,Macon,Georgia,Lot's O' Nuts,92.5
+822,Tallahassee,Florida,Wicked Choccy's,102.2
+823,Rochester,New York,Secret Factory,125.1
+824,Belleville,New Jersey,Wicked Choccy's,115.1
+825,Coppell,Texas,Wicked Choccy's,92.1
+826,Coppell,Texas,Lot's O' Nuts,92.1
+827,Riverside,California,Lot's O' Nuts,142.3
+828,Columbia,South Carolina,The Other Factory,94.7
+829,Belleville,New Jersey,Lot's O' Nuts,115.1
+830,Twin Falls,Idaho,Wicked Choccy's,99.9
+831,Twin Falls,Idaho,Lot's O' Nuts,99.9
+832,New Rochelle,New York,Wicked Choccy's,125.1
+833,New Rochelle,New York,Lot's O' Nuts,125.1
+834,Las Cruces,New Mexico,Wicked Choccy's,93.7
+835,Broomfield,Colorado,Wicked Choccy's,102.7
+836,Monroe,North Carolina,Wicked Choccy's,97.8
+837,Rockville,Maryland,Lot's O' Nuts,115.4
+838,Florence,Kentucky,Wicked Choccy's,92.5
+839,Fayetteville,Arkansas,Wicked Choccy's,89.6
+840,Franklin,Wisconsin,Lot's O' Nuts,97.7
+841,Woodland,California,The Other Factory,142.3
+842,Woodland,California,Lot's O' Nuts,142.3
+843,North Charleston,South Carolina,Lot's O' Nuts,94.7
+844,Manchester,Connecticut,Lot's O' Nuts,112.7
+845,Manchester,Connecticut,Wicked Choccy's,112.7
+846,Logan,Utah,Lot's O' Nuts,102.2
+847,Logan,Utah,Wicked Choccy's,102.2
+848,Sterling Heights,Michigan,Wicked Choccy's,90.1
+849,Plano,Texas,Lot's O' Nuts,92.1
+850,Saint Charles,Missouri,Wicked Choccy's,89.0
+851,Sparks,Nevada,Lot's O' Nuts,100.2
+852,Athens,Georgia,Wicked Choccy's,92.5
+853,Murray,Kentucky,Lot's O' Nuts,92.5
+854,Pocatello,Idaho,Lot's O' Nuts,99.9
+855,Pocatello,Idaho,Wicked Choccy's,99.9
+856,Plainfield,New Jersey,Wicked Choccy's,115.1
+857,Odessa,Texas,Lot's O' Nuts,92.1
+858,Auburn,New York,Secret Factory,125.1
+859,Medford,Oregon,Wicked Choccy's,111.8
+860,Burlington,North Carolina,Wicked Choccy's,97.8
+861,Midland,Michigan,Lot's O' Nuts,90.1
+862,Holland,Michigan,Lot's O' Nuts,90.1
+863,Kent,Ohio,Wicked Choccy's,94.3
+864,Kent,Ohio,Lot's O' Nuts,94.3
+865,Saginaw,Michigan,Lot's O' Nuts,90.1
+866,Saginaw,Michigan,Wicked Choccy's,90.1
+867,Pueblo,Colorado,Lot's O' Nuts,102.7
+868,Waukesha,Wisconsin,Lot's O' Nuts,97.7
+869,Niagara Falls,New York,Wicked Choccy's,125.1
+870,Marion,Ohio,Lot's O' Nuts,94.3
+871,Atlantic City,New Jersey,Lot's O' Nuts,115.1
+872,Huntsville,Alabama,Wicked Choccy's,88.6
+873,Olympia,Washington,Wicked Choccy's,114.1
+874,Olympia,Washington,Lot's O' Nuts,114.1
+875,Lakewood,Ohio,Secret Factory,94.3
+876,Des Plaines,Illinois,Wicked Choccy's,94.7
+877,Mobile,Alabama,Wicked Choccy's,88.6
+878,Mobile,Alabama,Lot's O' Nuts,88.6
+879,Lodi,California,Wicked Choccy's,142.3
+880,Austin,Texas,Secret Factory,92.1
+881,Garland,Texas,Wicked Choccy's,92.1
+882,Reno,Nevada,Lot's O' Nuts,100.2
+883,Chattanooga,Tennessee,Sugar Shack,90.3
+884,Kissimmee,Florida,Wicked Choccy's,102.2
+885,Midland,Michigan,Wicked Choccy's,90.1
+886,Westminster,California,Wicked Choccy's,142.3
+887,Aberdeen,South Dakota,Lot's O' Nuts,91.9
+888,Mission Viejo,California,Wicked Choccy's,142.3
+889,Canton,Michigan,Wicked Choccy's,90.1
+890,Canton,Michigan,Lot's O' Nuts,90.1
+891,Loveland,Colorado,Lot's O' Nuts,102.7
+892,Bridgeton,New Jersey,Wicked Choccy's,115.1
+893,San Angelo,Texas,Lot's O' Nuts,92.1
+894,San Angelo,Texas,Wicked Choccy's,92.1
+895,Hamilton,Ohio,Lot's O' Nuts,94.3
+896,Draper,Utah,Wicked Choccy's,102.2
+897,Draper,Utah,Lot's O' Nuts,102.2
+898,Missoula,Montana,Lot's O' Nuts,95.5
+899,North Miami,Florida,Wicked Choccy's,102.2
+900,Davis,California,Wicked Choccy's,142.3
+901,Madison,Wisconsin,Lot's O' Nuts,97.7
+902,Madison,Wisconsin,Wicked Choccy's,97.7
+903,Port Orange,Florida,Lot's O' Nuts,102.2
+904,Muskogee,Oklahoma,Wicked Choccy's,86.0
+905,Miramar,Florida,Secret Factory,102.2
+906,Garland,Texas,Lot's O' Nuts,92.1
+907,Park Ridge,Illinois,Lot's O' Nuts,94.7
+908,Hattiesburg,Mississippi,Lot's O' Nuts,87.3
+909,Trenton,Michigan,Wicked Choccy's,90.1
+910,Ontario,California,Wicked Choccy's,142.3
+911,Saint Cloud,Minnesota,Lot's O' Nuts,94.6
+912,Hollywood,Florida,Lot's O' Nuts,102.2
+913,Lafayette,Louisiana,Secret Factory,92.3
+914,Springfield,Oregon,The Other Factory,111.8
+915,Grand Rapids,Michigan,Wicked Choccy's,90.1
+916,Tallahassee,Florida,Lot's O' Nuts,102.2
+917,Louisville,Kentucky,The Other Factory,92.5
+918,San Jose,California,The Other Factory,142.3
+919,Deer Park,Texas,Lot's O' Nuts,92.1
+920,Anaheim,California,Secret Factory,142.3
+921,Bristol,Tennessee,Lot's O' Nuts,90.3
+922,Tigard,Oregon,Lot's O' Nuts,111.8
+923,Tigard,Oregon,Wicked Choccy's,111.8
+924,Manteca,California,Wicked Choccy's,142.3
+925,Freeport,Illinois,Wicked Choccy's,94.7
+926,Highland Park,Illinois,Wicked Choccy's,94.7
+927,Highland Park,Illinois,Lot's O' Nuts,94.7
+928,Dover,Delaware,Lot's O' Nuts,101.9
+929,Pleasant Grove,Utah,Wicked Choccy's,102.2
+930,Clinton,Maryland,The Other Factory,115.4
+931,Norman,Oklahoma,Wicked Choccy's,86.0
+932,Layton,Utah,Wicked Choccy's,102.2
+933,Dublin,California,Wicked Choccy's,142.3
+934,Overland Park,Kansas,Wicked Choccy's,88.8
+935,Overland Park,Kansas,Lot's O' Nuts,88.8
+936,Sunnyvale,California,Secret Factory,142.3
+937,Sunnyvale,California,Wicked Choccy's,142.3
+938,Sunnyvale,California,The Other Factory,142.3
+939,Springdale,Arkansas,Wicked Choccy's,89.6
+940,Avondale,Arizona,Wicked Choccy's,110.7
+941,Santa Barbara,California,Wicked Choccy's,142.3
+942,Santa Barbara,California,Secret Factory,142.3
+943,Redondo Beach,California,Wicked Choccy's,142.3
+944,Visalia,California,Lot's O' Nuts,142.3
+945,Orange,New Jersey,Lot's O' Nuts,115.1
+946,Lansing,Michigan,Lot's O' Nuts,90.1
+947,Clarksville,Tennessee,Wicked Choccy's,90.3
+948,Kirkwood,Missouri,Lot's O' Nuts,89.0
+949,Kirkwood,Missouri,Wicked Choccy's,89.0
+950,Hackensack,New Jersey,Lot's O' Nuts,115.1
+951,Tinley Park,Illinois,Lot's O' Nuts,94.7
+952,Bangor,Maine,Lot's O' Nuts,113.0
+953,Pueblo,Colorado,Secret Factory,102.7
+954,Oxnard,California,The Other Factory,142.3
+955,Thornton,Colorado,Lot's O' Nuts,102.7
+956,Thornton,Colorado,Wicked Choccy's,102.7
+957,Champaign,Illinois,Lot's O' Nuts,94.7
+958,Longmont,Colorado,Wicked Choccy's,102.7
+959,Sparks,Nevada,Secret Factory,100.2
+960,Naperville,Illinois,Wicked Choccy's,94.7
+961,Medina,Ohio,Wicked Choccy's,94.3
+962,Whittier,California,Lot's O' Nuts,142.3
+963,Chandler,Arizona,Lot's O' Nuts,110.7
+964,Greenville,North Carolina,Lot's O' Nuts,97.8
+965,Elkhart,Indiana,Lot's O' Nuts,91.0
+966,Woodstock,Georgia,Wicked Choccy's,92.5
+967,Woodstock,Georgia,Lot's O' Nuts,92.5
+968,Suffolk,Virginia,Wicked Choccy's,100.8
+969,Suffolk,Virginia,Lot's O' Nuts,100.8
+970,La Quinta,California,Lot's O' Nuts,142.3
+971,Peoria,Illinois,Wicked Choccy's,94.7
+972,Visalia,California,Wicked Choccy's,142.3
+973,Murray,Kentucky,Wicked Choccy's,92.5
+974,Lafayette,Indiana,Wicked Choccy's,91.0
+975,Durham,North Carolina,Wicked Choccy's,97.8
+976,Texarkana,Arkansas,Lot's O' Nuts,89.6
+977,Helena,Montana,Wicked Choccy's,95.5
+978,Grand Prairie,Texas,Lot's O' Nuts,92.1
+979,Utica,New York,Wicked Choccy's,125.1
+980,Gladstone,Missouri,Wicked Choccy's,89.0
+981,Henderson,Nevada,Wicked Choccy's,100.2
+982,Henderson,Nevada,Lot's O' Nuts,100.2
+983,Trenton,Michigan,Secret Factory,90.1
+984,Jackson,Michigan,Sugar Shack,90.1
+985,Sheboygan,Wisconsin,Secret Factory,97.7
+986,Sheboygan,Wisconsin,Lot's O' Nuts,97.7
+987,Sheboygan,Wisconsin,Wicked Choccy's,97.7
+988,Richmond,Virginia,Secret Factory,100.8
+989,Lawrence,Indiana,Secret Factory,91.0
+990,Cheyenne,Wyoming,Lot's O' Nuts,93.7
+991,Citrus Heights,California,Lot's O' Nuts,142.3
+992,League City,Texas,Lot's O' Nuts,92.1
+993,Longview,Washington,Lot's O' Nuts,114.1
+994,Pasco,Washington,Lot's O' Nuts,114.1
+995,Pasco,Washington,Wicked Choccy's,114.1
+996,Mobile,Alabama,Secret Factory,88.6
+997,San Marcos,Texas,The Other Factory,92.1
+998,San Marcos,Texas,Lot's O' Nuts,92.1
+999,Coachella,California,Lot's O' Nuts,142.3
+1000,Lakeland,Florida,The Other Factory,102.2
+1001,Saint Louis,Missouri,Lot's O' Nuts,89.0
+1002,Medina,Ohio,Lot's O' Nuts,94.3
+1003,Marysville,Washington,Wicked Choccy's,114.1
+1004,Corpus Christi,Texas,Wicked Choccy's,92.1
+1005,Corpus Christi,Texas,Lot's O' Nuts,92.1
+1006,Laurel,Maryland,Wicked Choccy's,115.4
+1007,Laurel,Maryland,Lot's O' Nuts,115.4
+1008,Huntsville,Alabama,The Other Factory,88.6
+1009,Little Rock,Arkansas,Secret Factory,89.6
+1010,Mentor,Ohio,Wicked Choccy's,94.3
+1011,Mentor,Ohio,Lot's O' Nuts,94.3
+1012,El Paso,Texas,Secret Factory,92.1
+1013,Saint Charles,Illinois,Secret Factory,94.7
+1014,Santa Fe,New Mexico,Lot's O' Nuts,93.7
+1015,Jackson,Mississippi,Secret Factory,87.3
+1016,Greenwood,Indiana,Lot's O' Nuts,91.0
+1017,Lindenhurst,New York,Wicked Choccy's,125.1
+1018,Lubbock,Texas,Wicked Choccy's,92.1
+1019,Chester,Pennsylvania,Secret Factory,97.2
+1020,Sanford,Florida,Lot's O' Nuts,102.2
+1021,Yonkers,New York,Secret Factory,125.1
+1022,Bangor,Maine,Wicked Choccy's,113.0
+1023,Murfreesboro,Tennessee,Wicked Choccy's,90.3
+1024,Marion,Iowa,Lot's O' Nuts,89.7
+1025,Toledo,Ohio,Sugar Shack,94.3
+1026,Dearborn,Michigan,Wicked Choccy's,90.1
+1027,Missouri City,Texas,Lot's O' Nuts,92.1
+1028,College Station,Texas,Lot's O' Nuts,92.1
+1029,The Colony,Texas,Wicked Choccy's,92.1
+1030,Brownsville,Texas,Wicked Choccy's,92.1
+1031,Smyrna,Georgia,The Other Factory,92.5
+1032,Smyrna,Georgia,Lot's O' Nuts,92.5
+1033,Mcallen,Texas,Secret Factory,92.1
+1034,Port Saint Lucie,Florida,Wicked Choccy's,102.2
+1035,Warwick,Rhode Island,Wicked Choccy's,110.6
+1036,Lawrence,Massachusetts,Secret Factory,141.2
+1037,Boca Raton,Florida,Lot's O' Nuts,102.2
+1038,Wausau,Wisconsin,Lot's O' Nuts,97.7
+1039,Wausau,Wisconsin,Wicked Choccy's,97.7
+1040,Rockville,Maryland,Wicked Choccy's,115.4
+1041,Conway,Arkansas,Lot's O' Nuts,89.6
+1042,Bowling Green,Ohio,Wicked Choccy's,94.3
+1043,Scottsdale,Arizona,Lot's O' Nuts,110.7
+1044,Coon Rapids,Minnesota,Wicked Choccy's,94.6
+1045,Coon Rapids,Minnesota,Lot's O' Nuts,94.6
+1046,Rancho Cucamonga,California,The Other Factory,142.3
+1047,Parker,Colorado,Lot's O' Nuts,102.7
+1048,Parker,Colorado,Wicked Choccy's,102.7
+1049,Grapevine,Texas,Lot's O' Nuts,92.1
+1050,Reading,Pennsylvania,Wicked Choccy's,97.2
+1051,Apple Valley,Minnesota,Wicked Choccy's,94.6
+1052,Fargo,North Dakota,Wicked Choccy's,91.4
+1053,Santa Maria,California,Wicked Choccy's,142.3
+1054,Royal Oak,Michigan,Wicked Choccy's,90.1
+1055,New Bedford,Massachusetts,Lot's O' Nuts,141.2
+1056,York,Pennsylvania,Lot's O' Nuts,97.2
+1057,York,Pennsylvania,Wicked Choccy's,97.2
+1058,Mount Pleasant,South Carolina,Lot's O' Nuts,94.7
+1059,Mount Vernon,New York,Wicked Choccy's,125.1
+1060,Edinburg,Texas,Lot's O' Nuts,92.1
+1061,Reno,Nevada,Wicked Choccy's,100.2
+1062,Oak Park,Michigan,Lot's O' Nuts,90.1
+1063,Oak Park,Michigan,Wicked Choccy's,90.1
+1064,Pomona,California,Wicked Choccy's,142.3
+1065,Danville,California,The Other Factory,142.3
+1066,Danville,California,Lot's O' Nuts,142.3
+1067,Danville,California,Secret Factory,142.3
+1068,Danville,California,Wicked Choccy's,142.3
+1069,North Las Vegas,Nevada,Secret Factory,100.2
+1070,Wichita,Kansas,Wicked Choccy's,88.8
+1071,Edmond,Oklahoma,Lot's O' Nuts,86.0
+1072,Wilson,North Carolina,Lot's O' Nuts,97.8
+1073,Niagara Falls,New York,Sugar Shack,125.1
+1074,Niagara Falls,New York,Lot's O' Nuts,125.1
+1075,Chula Vista,California,Lot's O' Nuts,142.3
+1076,Jacksonville,North Carolina,Secret Factory,97.8
+1077,Waterloo,Iowa,Wicked Choccy's,89.7
+1078,Meridian,Idaho,Wicked Choccy's,99.9
+1079,Yucaipa,California,Lot's O' Nuts,142.3
+1080,Bethlehem,Pennsylvania,Wicked Choccy's,97.2
+1081,Eau Claire,Wisconsin,Wicked Choccy's,97.7
+1082,Richmond,Indiana,The Other Factory,91.0
+1083,Orland Park,Illinois,Wicked Choccy's,94.7
+1084,Smyrna,Georgia,Wicked Choccy's,92.5
+1085,Richmond,Kentucky,Secret Factory,92.5
+1086,Texas City,Texas,Wicked Choccy's,92.1
+1087,Clarksville,Tennessee,Lot's O' Nuts,90.3
+1088,Burlington,Iowa,Lot's O' Nuts,89.7
+1089,Marlborough,Massachusetts,Lot's O' Nuts,141.2
+1090,Marlborough,Massachusetts,Wicked Choccy's,141.2
+1091,Roseville,Minnesota,Wicked Choccy's,94.6
+1092,Chicago,Illinois,Sugar Shack,94.7
+1093,Louisville,Colorado,Secret Factory,102.7
+1094,Bayonne,New Jersey,Lot's O' Nuts,115.1
+1095,Bayonne,New Jersey,Wicked Choccy's,115.1
+1096,Newark,Delaware,Sugar Shack,101.9
+1097,Holyoke,Massachusetts,Lot's O' Nuts,141.2
+1098,Glenview,Illinois,Lot's O' Nuts,94.7
+1099,Andover,Massachusetts,Lot's O' Nuts,141.2
+1100,Andover,Massachusetts,Wicked Choccy's,141.2
+1101,Sterling Heights,Michigan,Lot's O' Nuts,90.1
+1102,Lewiston,Maine,Lot's O' Nuts,113.0
+1103,Pompano Beach,Florida,Wicked Choccy's,102.2
+1104,Pensacola,Florida,Lot's O' Nuts,102.2
+1105,Athens,Georgia,Lot's O' Nuts,92.5
+1106,Murrieta,California,Wicked Choccy's,142.3
+1107,Commerce City,Colorado,Lot's O' Nuts,102.7
+1108,Auburn,New York,Wicked Choccy's,125.1
+1109,Saint Louis,Missouri,Wicked Choccy's,89.0
+1110,Milford,Connecticut,Wicked Choccy's,112.7
+1111,Tallahassee,Florida,Secret Factory,102.2
+1112,Saint Charles,Illinois,Lot's O' Nuts,94.7
+1113,Billings,Montana,Wicked Choccy's,95.5
+1114,Atlanta,Georgia,Secret Factory,92.5
+1115,Memphis,Tennessee,The Other Factory,90.3
+1116,Gastonia,North Carolina,Wicked Choccy's,97.8
+1117,Gastonia,North Carolina,Lot's O' Nuts,97.8
+1118,Mishawaka,Indiana,Wicked Choccy's,91.0
+1119,Temecula,California,Lot's O' Nuts,142.3
+1120,Temecula,California,Wicked Choccy's,142.3
+1121,Saint Peters,Missouri,Wicked Choccy's,89.0
+1122,Independence,Missouri,Wicked Choccy's,89.0
+1123,Daytona Beach,Florida,Wicked Choccy's,102.2
+1124,Morgan Hill,California,Wicked Choccy's,142.3
+1125,Morgan Hill,California,Lot's O' Nuts,142.3
+1126,Lafayette,Indiana,Lot's O' Nuts,91.0
+1127,Dover,New Hampshire,The Other Factory,111.4
+1128,East Point,Georgia,Lot's O' Nuts,92.5
+1129,East Point,Georgia,Wicked Choccy's,92.5
+1130,Marietta,Georgia,Lot's O' Nuts,92.5
+1131,Manhattan,Kansas,Lot's O' Nuts,88.8
+1132,Provo,Utah,Secret Factory,102.2
+1133,Carol Stream,Illinois,Wicked Choccy's,94.7
+1134,Carol Stream,Illinois,Lot's O' Nuts,94.7
+1135,South Bend,Indiana,Lot's O' Nuts,91.0
+1136,South Bend,Indiana,Wicked Choccy's,91.0
+1137,Meriden,Connecticut,Wicked Choccy's,112.7
+1138,Monroe,Louisiana,Secret Factory,92.3
+1139,Meriden,Connecticut,The Other Factory,112.7
+1140,Columbia,South Carolina,Secret Factory,94.7
+1141,Summerville,South Carolina,Wicked Choccy's,94.7
+1142,Summerville,South Carolina,Lot's O' Nuts,94.7
+1143,Burlington,Iowa,Wicked Choccy's,89.7
+1144,Daytona Beach,Florida,Lot's O' Nuts,102.2
+1145,Redmond,Oregon,Wicked Choccy's,111.8
+1146,Evanston,Illinois,Wicked Choccy's,94.7
+1147,Henderson,Kentucky,The Other Factory,92.5
+1148,Florence,South Carolina,Wicked Choccy's,94.7
+1149,Springfield,Ohio,Secret Factory,94.3
+1150,Burbank,California,Lot's O' Nuts,142.3
+1151,Hialeah,Florida,Sugar Shack,102.2
+1152,La Mesa,California,Lot's O' Nuts,142.3
+1153,Margate,Florida,Lot's O' Nuts,102.2
+1154,West Jordan,Utah,Wicked Choccy's,102.2
+1155,Quincy,Massachusetts,Wicked Choccy's,141.2
+1156,Lowell,Massachusetts,The Other Factory,141.2
+1157,Beaumont,Texas,Lot's O' Nuts,92.1
+1158,Rochester Hills,Michigan,Lot's O' Nuts,90.1
+1159,Mishawaka,Indiana,Lot's O' Nuts,91.0
+1160,Holland,Michigan,Wicked Choccy's,90.1
+1161,La Crosse,Wisconsin,Secret Factory,97.7
+1162,La Crosse,Wisconsin,Lot's O' Nuts,97.7
+1163,Edinburg,Texas,Wicked Choccy's,92.1
+1164,Arlington Heights,Illinois,Lot's O' Nuts,94.7
+1165,Midland,Michigan,Sugar Shack,90.1
+1166,Bedford,Texas,Wicked Choccy's,92.1
+1167,Houston,Texas,Sugar Shack,92.1
+1168,Lewiston,Idaho,Lot's O' Nuts,99.9
+1169,Wheeling,Illinois,Lot's O' Nuts,94.7
+1170,Clifton,New Jersey,Lot's O' Nuts,115.1
+1171,Goldsboro,North Carolina,Wicked Choccy's,97.8
+1172,New Castle,Indiana,Lot's O' Nuts,91.0
+1173,New Castle,Indiana,Wicked Choccy's,91.0
+1174,Marysville,Washington,Lot's O' Nuts,114.1
+1175,Murray,Utah,Wicked Choccy's,102.2
+1176,Bellingham,Washington,Lot's O' Nuts,114.1
+1177,Baytown,Texas,Wicked Choccy's,92.1
+1178,Dearborn,Michigan,Lot's O' Nuts,90.1
+1179,Bedford,Texas,Lot's O' Nuts,92.1
+1180,Independence,Missouri,Lot's O' Nuts,89.0
+1181,Caldwell,Idaho,Wicked Choccy's,99.9
+1182,Caldwell,Idaho,Lot's O' Nuts,99.9
+1183,Pearland,Texas,Wicked Choccy's,92.1
+1184,Jackson,Tennessee,Secret Factory,90.3
+1185,New Brunswick,New Jersey,Lot's O' Nuts,115.1
+1186,Texarkana,Arkansas,Wicked Choccy's,89.6
+1187,Muskogee,Oklahoma,Lot's O' Nuts,86.0
+1188,Jacksonville,Florida,Sugar Shack,102.2
+1189,Allentown,Pennsylvania,Wicked Choccy's,97.2
+1190,Monroe,North Carolina,The Other Factory,97.8
+1191,Peoria,Arizona,Sugar Shack,110.7
+1192,Paterson,New Jersey,Secret Factory,115.1
+1193,Covington,Washington,Lot's O' Nuts,114.1
+1194,Greeley,Colorado,Lot's O' Nuts,102.7
+1195,Columbia,Tennessee,Wicked Choccy's,90.3
+1196,Redwood City,California,Wicked Choccy's,142.3
+1197,Murfreesboro,Tennessee,Secret Factory,90.3
+1198,San Luis Obispo,California,Wicked Choccy's,142.3
+1199,Bloomington,Indiana,Wicked Choccy's,91.0
+1200,Nashua,New Hampshire,Wicked Choccy's,111.4
+1201,Oak Park,Illinois,Lot's O' Nuts,94.7
+1202,Buffalo Grove,Illinois,Lot's O' Nuts,94.7
+1203,Oswego,Illinois,Lot's O' Nuts,94.7
+1204,Norfolk,Nebraska,Wicked Choccy's,92.6
+1205,Redmond,Washington,Lot's O' Nuts,114.1
+1206,Parma,Ohio,Wicked Choccy's,94.3
+1207,Troy,New York,Wicked Choccy's,125.1
+1208,Royal Oak,Michigan,Lot's O' Nuts,90.1
+1209,Cleveland,Ohio,Sugar Shack,94.3
+1210,Saint Charles,Illinois,Wicked Choccy's,94.7
+1211,Pico Rivera,California,Wicked Choccy's,142.3
+1212,Olathe,Kansas,Wicked Choccy's,88.8
+1213,Wilson,North Carolina,Wicked Choccy's,97.8
+1214,Henderson,Kentucky,Secret Factory,92.5
+1215,Norman,Oklahoma,Lot's O' Nuts,86.0
+1216,Hagerstown,Maryland,Lot's O' Nuts,115.4
+1217,Jupiter,Florida,Lot's O' Nuts,102.2
+1218,Bolingbrook,Illinois,Wicked Choccy's,94.7
+1219,Fort Collins,Colorado,Wicked Choccy's,102.7
+1220,Fayetteville,Arkansas,Secret Factory,89.6
+1221,Danville,Illinois,Lot's O' Nuts,94.7
+1222,Arlington,Virginia,Secret Factory,100.8
+1223,Woodstock,Illinois,Wicked Choccy's,94.7
+1224,Vacaville,California,Wicked Choccy's,142.3
+1225,Marion,Iowa,Wicked Choccy's,89.7
+1226,Grand Island,Nebraska,Wicked Choccy's,92.6
+1227,Manteca,California,Lot's O' Nuts,142.3
+1228,Eugene,Oregon,Lot's O' Nuts,111.8
+1229,Eugene,Oregon,Wicked Choccy's,111.8
+1230,Eugene,Oregon,Secret Factory,111.8
+1231,Cedar Rapids,Iowa,Lot's O' Nuts,89.7
+1232,Ormond Beach,Florida,Wicked Choccy's,102.2
+1233,Toledo,Ohio,The Other Factory,94.3
+1234,West Allis,Wisconsin,Wicked Choccy's,97.7
+1235,West Allis,Wisconsin,Lot's O' Nuts,97.7
+1236,Hackensack,New Jersey,Wicked Choccy's,115.1
+1237,Nashville,Tennessee,The Other Factory,90.3
+1238,Clovis,New Mexico,Wicked Choccy's,93.7
+1239,Clovis,New Mexico,Lot's O' Nuts,93.7
+1240,Freeport,Illinois,Lot's O' Nuts,94.7
+1241,Charlottesville,Virginia,Lot's O' Nuts,100.8
+1242,Scottsdale,Arizona,The Other Factory,110.7
+1243,Pleasant Grove,Utah,Lot's O' Nuts,102.2
+1244,Elmhurst,Illinois,Secret Factory,94.7
+1245,San Mateo,California,Lot's O' Nuts,142.3
+1246,Westfield,New Jersey,Sugar Shack,115.1
+1247,Portage,Indiana,Wicked Choccy's,91.0
+1248,Mission Viejo,California,Lot's O' Nuts,142.3
+1249,Boca Raton,Florida,Wicked Choccy's,102.2
+1250,Nashua,New Hampshire,Lot's O' Nuts,111.4
+1251,Columbia,Tennessee,Secret Factory,90.3
+1252,La Porte,Texas,Lot's O' Nuts,92.1
+1253,La Porte,Texas,Wicked Choccy's,92.1
+1254,Newark,Delaware,Secret Factory,101.9
+1255,Hickory,North Carolina,Lot's O' Nuts,97.8
