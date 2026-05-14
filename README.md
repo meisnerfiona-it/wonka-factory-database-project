@@ -12,6 +12,20 @@
 ## Project Overview
 This project is a comprehensive dual-threat audit of the Willy Wonka Chocolate Factory operations for the 2024-2025 fiscal period. Our analysis focuses on identifying operational waste in manufacturing and optimizing the product portfolio based on profit margins.
 
+## Entity Relationship Diagram (ERD)
+
+The final database follows a star-schema design:
+
+- `fact_sales` stores transactional metrics.
+- `dim_products` stores product attributes.
+- `dim_locations` stores geographic and factory-related information, including COLI.
+
+Relationships:
+- `fact_sales.product_id` → `dim_products.product_id`
+- `fact_sales.location_id` → `dim_locations.location_id`
+
+![ERD Diagram](wonka_factory_ERD.png)
+
 ## Key Findings
 
 ### 1. The "Texas Anomaly"
@@ -42,3 +56,8 @@ Based on the `wonka_master_analysis`, the factory should implement the following
 * **SQL (SQLite/MySQL):** Relational database management and financial KPI extraction.
 * **Trello:** Project management and Kanban workflow.
 * **Google Slides:** Stakeholder presentation and storytelling.
+
+## Data Sources
+
+- Primary Dataset: Willy Wonka Chocolate Factory dataset.
+- Secondary Dataset: U.S. Cost of Living Index (COLI) by State (2025).
